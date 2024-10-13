@@ -23,6 +23,15 @@
 " titleCam " :  " MUZANGALA TV "
 } ,
 {
+" descriptionCam " :  " Tvi Africa TV est une chaîne de télévision de base en Angola. " ,
+" sourceCam " :  [
+" https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8 "
+] ,
+" subtitleCam " :  " All channel " ,
+" thumbCam " :  " https://od.lk/s/NDZfNjE4MTcyNzRf/tviAfrica.jpg " ,
+" titleCam " :  " TVI AFRICA "
+} ,
+{
 " descriptionCam " :  " TPA 1 est une chaîne généraliste, dédiée à l'information, à la fiction et au divertissement, partie intégrante de la Télévision Publique d'Angola. Avec des émissions quotidiennes d'informations, de talk-shows et de séries culturelles, TPA1 diffuse également à travers ses propres productions, des divertissements. et la couverture des événements sportifs " ,
 " sourceCam " :  [
 " https://player-api.new.livestream.com:443/accounts/30360708/events/9496693/broadcasts/236696473.secure.m3u8 "
