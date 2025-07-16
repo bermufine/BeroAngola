@@ -37,13 +37,13 @@
 
 {"descriptionCam":"tvi africa TV est une chaîne de télévision basée au Angola.","sourceCam":["https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8"],"subtitleCam":"All Channel", "numberCam": "239","thumbCam":"https://od.lk/s/NDZfNjE4MTcyNzRf/tviAfrica.jpg","titleCam":"TVI AFRICA"},
 
-{"descriptionCam":"tvi ficao est une chaîne de télévision basée au Angola.","sourceCam":["https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8"],"subtitleCam":"All Channel", "numberCam": "240","thumbCam":"https://od.lk/s/NDZfNjE4MTcyNzRf/tviAfrica.jpg","titleCam":"TVI FICAO"},
+{"descriptionCam":"tvi ficao est une chaîne de télévision basée au Angola.","sourceCam":["https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8"],"subtitleCam":"All Channel", "numberCam": "240","thumbCam":"https://od.lk/s/NDZfODM5MTUxNDBf/ficao.jpeg","titleCam":"TVI FICAO"},
 
-{"descriptionCam":"tvi est une chaîne de télévision basée au Angola.","sourceCam":["https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8"],"subtitleCam":"All Channel", "numberCam": "242","thumbCam":"https://od.lk/s/NDZfNjE4MTcyNzRf/tviAfrica.jpg","titleCam":"TVI"},
+{"descriptionCam":"tvi est une chaîne de télévision basée au Angola.","sourceCam":["https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8"],"subtitleCam":"All Channel", "numberCam": "242","thumbCam":"https://od.lk/s/NDZfODM5MTUyMjlf/tvi.jpeg","titleCam":"TVI"},
 
 {"descriptionCam":"Superflix est une chaîne de télévision basée au Angola.","sourceCam":["https://streaming.cloudecast.com/hls/superflix/index.m3u8"],"subtitleCam":"All Channel", "numberCam": "243","thumbCam":"https://od.lk/s/NDZfODM5MTM4Mzlf/superflix.jpeg","titleCam":"SUPERFLIX"},
 
-{"descriptionCam":"TVCOM Maceió est une chaîne de télévision basée au Angola.","sourceCam":["https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8"],"subtitleCam":"All Channel", "numberCam": "244","thumbCam":"https://od.lk/s/NDZfNjE4MTcyNzRf/tviAfrica.jpg","titleCam":"TVCOM MACEIO"},
+{"descriptionCam":"TVCOM Maceió est une chaîne de télévision basée au Angola.","sourceCam":["https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8"],"subtitleCam":"All Channel", "numberCam": "244","thumbCam":"https://od.lk/s/NDZfODM5MTUzNDRf/tvcomMaceio.jpeg","titleCam":"TVCOM MACEIO"},
 
 {"descriptionCam":"tvsuldeminas est une chaîne de télévision basée au Angola.","sourceCam":["https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8"],"subtitleCam":"All Channel", "numberCam": "245","thumbCam":"https://od.lk/s/NDZfODM5MTM3NTdf/sulminas.jpeg","titleCam":"TV SUL DEMINAS"},
 
@@ -53,7 +53,7 @@
 
 {"descriptionCam":"Record News  TV est une chaîne de télévision basée au Angola.","sourceCam":["https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8"],"subtitleCam":"All Channel", "numberCam": "248","thumbCam":"https://od.lk/s/NDZfODM5MTI5NjZf/recordnews.jpeg","titleCam":"RECORD NEWS"},
 
-{"descriptionCam":"Way TV  TV est une chaîne de télévision basée au Angola.","sourceCam":["https://stream-hls.castr-cdn.com/5d714f6a0bd97874e36f14e4/live_057ee4605c1711efbd4135c4457c726c/index.fmp4.m3u8"],"subtitleCam":"All Channel", "numberCam": "249","thumbCam":"https://od.lk/s/NDZfNjE4MTcyNzRf/tviAfrica.jpg","titleCam":"WAY TV"},
+{"descriptionCam":"Way TV  TV est une chaîne de télévision basée au Angola.","sourceCam":["https://stream-hls.castr-cdn.com/5d714f6a0bd97874e36f14e4/live_057ee4605c1711efbd4135c4457c726c/index.fmp4.m3u8"],"subtitleCam":"All Channel", "numberCam": "249","thumbCam":"https://od.lk/s/NDZfODM5MTU0MzBf/waytv.jpeg","titleCam":"WAY TV"},
 
 {"descriptionCam":"TV Maná Brasil est une chaîne de télévision basée au Angola.","sourceCam":["https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8"],"subtitleCam":"All Channel", "numberCam": "250","thumbCam":"https://od.lk/s/NDZfODM5MTIxMTlf/manaBrasil.png","titleCam":"MANA BRASIL"}]}]}
  
